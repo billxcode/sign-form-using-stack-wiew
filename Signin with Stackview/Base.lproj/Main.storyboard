@@ -51,7 +51,7 @@
                                 </subviews>
                             </stackView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Social  Behato" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cVs-18-ran">
-                                <rect key="frame" x="133" y="155.5" width="148" height="119.5"/>
+                                <rect key="frame" x="133" y="170.5" width="148" height="119.5"/>
                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="50"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -61,7 +61,7 @@
                         <constraints>
                             <constraint firstItem="MsH-g7-GDa" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="01m-zi-MYf"/>
                             <constraint firstItem="F6q-lk-BIA" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="Lpi-zX-I8Y"/>
-                            <constraint firstItem="F6q-lk-BIA" firstAttribute="top" secondItem="cVs-18-ran" secondAttribute="bottom" constant="20" id="VHT-r6-xAO"/>
+                            <constraint firstItem="F6q-lk-BIA" firstAttribute="top" secondItem="cVs-18-ran" secondAttribute="bottom" constant="5" id="VHT-r6-xAO"/>
                             <constraint firstItem="cVs-18-ran" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="WIm-Bz-sPa"/>
                             <constraint firstItem="F6q-lk-BIA" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Xcu-K1-UIO"/>
                             <constraint firstAttribute="bottom" secondItem="MsH-g7-GDa" secondAttribute="bottom" id="e90-L3-T4u"/>
